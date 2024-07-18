@@ -15,7 +15,7 @@
 
 <h3 align="left"><font color='#300000' size=5%>ABOUT DATA:</font></h3>
 
-This comprehensive dataset is a meticulously curated collection of mental health statuses tagged from various statements. The dataset amalgamates raw data from multiple sources, cleaned and compiled to create a robust resource for developing chatbots and performing sentiment analysis.
+The dataset from Scoutium consists of information about football players observed during matches, including the players' characteristics and the scouts' evaluations of these players, as well as the rated features and scores of the players within the match.
 </div>
 <div style="border-radius: 10px; overflow: hidden; text-align: center;">
     <img src="https://i.ytimg.com/vi/GCKuxyKAbVc/maxresdefault.jpg" alt="scotium" width="900"></div>
